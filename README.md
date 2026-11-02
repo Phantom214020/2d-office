@@ -10,7 +10,7 @@ Status: the office runs every day on my machine and is wired into my own Claude 
 
 ## What it looks like in action
 
-These are screenshots of the live window taken on 2026-11-02, using the built-in test requests. Name tags are switched off.
+These are screenshots of the live window, using the built-in test requests. Name tags are switched off.
 
 **A request comes in.** The status bar at the top says who has the job. The log in the bottom left shows each step Claude takes, like "Searching the web" and "Reading the web: lospec.com".
 
